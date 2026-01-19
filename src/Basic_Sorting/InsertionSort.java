@@ -19,4 +19,9 @@ public class InsertionSort {
          }
          for(int ele: arr) System.out.print(ele+ " ");
     }
+
+    // Time Complexity: worst case ; O(n^2)
+    // average case : average case: O(n^2)
+   // best case: O(n) , if array is sorted
+    // Auxilary space: O(1)
 }

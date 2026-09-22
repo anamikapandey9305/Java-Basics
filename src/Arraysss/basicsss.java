@@ -1,6 +1,6 @@
 package Arraysss;
 
-public class lec1 {
+public class basicsss {
     static void main() {
 
 

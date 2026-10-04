@@ -1,7 +1,0 @@
-class Solution {
-    public double myPow(double x, int n) {
-
-        // Math.pow() calculates x raised to the power n
-        return Math.pow(x, n);
-    }
-}

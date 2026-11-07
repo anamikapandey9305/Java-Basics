@@ -43,7 +43,7 @@ public class Basics3 {
         answers.add(true);
         answers.add(false);
 
-        //Printing all linkelist
+        //Printing all linkedlist
         System.out.println(list);
         System.out.println(names);
         System.out.println(prices);
